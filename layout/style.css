@@ -1,0 +1,75 @@
+.header
+{
+	background: #ff8080;
+	width: 900px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+.header h1
+{
+	text-align: right;
+	margin-right: 20px;
+	font-family: verdana;
+	width: 
+	background:
+	color:;
+	float: 
+
+}
+
+.header small
+{
+	font-size: 40%;
+	border-bottom: 1px solid #660000
+}
+
+.menu
+{
+	width: 900px;
+	height: 50px;
+	margin: 0 auto;
+	background: #4ECDC4;
+	border-top: 1px solid #000;
+	text-align: center; 
+}
+
+.menu ul li 
+{
+	display: inline;
+}
+
+.menu ul li a
+{
+	color: #fff;
+	margin: 0 20px;
+	font-family: arial;
+	text-decoration: none;
+}
+
+.menu ul li a:hover
+{
+	color: #f03434;
+	border-top: 2px solid;
+	border-right: 2px solid;
+	border-left: 2px solid;
+	border-bottom: 2px solid;
+}
+
+.content
+{
+	width: 900px;
+	height: 400px;
+	margin: 0 auto;
+	background: #999;
+}
+
+.subc
+{
+	width: 200px;
+	height: 380px;
+	background: #fff;
+	border-radius: 10px;
+	float: left;
+	margin:50;
+}
